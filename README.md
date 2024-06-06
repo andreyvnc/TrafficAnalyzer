@@ -7,6 +7,7 @@ TrafficAnalyzer é um script Python que captura pacotes de rede de uma interface
  * Python 3
  * scapy
 
+
 ### Como configurar:
 
 Ubuntu:
@@ -24,7 +25,8 @@ source venv/bin/activate
 python3 traffic_analyzer.py
 ```
 
-![image](https://github.com/andreyvnc/TrafficAnalyzer/assets/56050610/59355a23-9eac-487d-b247-6f73ac7d2b9e)
+![image](https://github.com/andreyvnc/TrafficAnalyzer/assets/56050610/dc34bb73-bca3-4931-a855-8b101de27c5a)
+
 
 
    
